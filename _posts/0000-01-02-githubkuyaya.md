@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Issue"
 ---
-"Welcome to IDA 10.0."
-Use the left arrow to go back!
+"Über Issues kann man auf Fehler im Code hinweisen."
